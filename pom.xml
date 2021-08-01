@@ -1,0 +1,5 @@
+<properties>
+  <sonar.projectKey>Argenis1995_BWAPP</sonar.projectKey>
+  <sonar.organization>argenis1995</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
